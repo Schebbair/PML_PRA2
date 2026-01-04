@@ -1,4 +1,4 @@
-# PRA2: Multi-Agent Reinforcement Learning
+# Multi-Agent Reinforcement Learning
 
 **Subject:** Paradigms of Machine Learning / AI
 
